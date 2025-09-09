@@ -1,6 +1,6 @@
 # Resume Skill Gap Analyzer
 
-A Streamlit application that analyzes resumes and matches them with relevant job postings using machine learning.
+A Streamlit application that analyzes resumes and matches them with relevant job postings using ML.
 
 ## Setup
 1. Install dependencies: pip install -r requirements.txt
